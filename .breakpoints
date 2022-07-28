@@ -1,0 +1,20 @@
+{
+  "files": {
+    "static/image": [
+      {
+        "id": "0a0751fc-b8d8-48e6-b4d9-47776202e8ea",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "templates/page_jeux.html": [
+      {
+        "id": "95e5d5dc-5ced-470d-82bc-c1fe73dc481a",
+        "line": 11,
+        "version": 145,
+        "index": 322
+      }
+    ]
+  }
+}
